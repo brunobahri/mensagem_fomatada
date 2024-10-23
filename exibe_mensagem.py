@@ -34,3 +34,5 @@ def exibir_mensagem():
 
 # Chama a função para exibir a mensagem
 exibir_mensagem()
+
+
